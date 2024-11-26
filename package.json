@@ -4,6 +4,7 @@
   "author": "chengshaobo <ckcsb@126.com>",
   "description": "A webRTC live streaming server",
   "scripts": {
+    "serve": "vue-cli-service serve --openssl-legacy-provider",
     "start": "node app.js"
   },
   "repository": {
